@@ -27,7 +27,7 @@
 \contentsline {subsection}{\numberline {5.1}Einleitung}{13}{subsection.5.1}%
 \contentsline {subsection}{\numberline {5.2}Zielgruppe}{13}{subsection.5.2}%
 \contentsline {subsubsection}{\numberline {5.2.1}Hobbybastler}{13}{subsubsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.2}Golfspieler}{13}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.2}Golfspieler}{14}{subsubsection.5.2.2}%
 \contentsline {subsubsection}{\numberline {5.2.3}Bildungseinrichtungen}{14}{subsubsection.5.2.3}%
 \contentsline {subsection}{\numberline {5.3}Struktur der Website}{14}{subsection.5.3}%
 \contentsline {subsubsection}{\numberline {5.3.1}Navigationsleiste}{14}{subsubsection.5.3.1}%

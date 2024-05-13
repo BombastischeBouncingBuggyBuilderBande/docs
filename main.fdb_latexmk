@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1715638358 "c:/Users/Patrick/Desktop/docs/docs/main.tex" "main.pdf" "main" 1715638362
+["pdflatex"] 1715643182 "c:/Users/Patrick/Desktop/docs/docs/main.tex" "main.pdf" "main" 1715643186
   "Resources/SEO_echtzeit.png" 1715575749 317154 a1ad800533ff725053f943ea2440ff82 ""
   "Resources/SEO_engagement.png" 1715575626 124904 89b92ec9d5eaeeb6f2b4b164d82d6b40 ""
   "Resources/SEO_ergebnisse.png" 1715575659 98803 4f5ff9d5c05cba234fea4a71a6907218 ""
@@ -124,11 +124,11 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1665692128 4635141 23220546ee3b05387077c1debfa3f0c7 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1665692275 3058756 56156d30f2115149541316ec3ef2fcf6 ""
   "c:/texlive/2022/texmf.cnf" 1665692078 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1715638362 15055 3c4229bc8866879cef191277537c27dd "pdflatex"
-  "main.lof" 1715638362 2181 8bb072142a0ef3334d825b464d768481 "pdflatex"
-  "main.out" 1715638362 14422 9b293c17bd0e4684f2a7b68d8390be62 "pdflatex"
+  "main.aux" 1715643186 15055 31856826393a7df26001df8a89fe92c8 "pdflatex"
+  "main.lof" 1715643186 2181 8bb072142a0ef3334d825b464d768481 "pdflatex"
+  "main.out" 1715643186 14422 9b293c17bd0e4684f2a7b68d8390be62 "pdflatex"
   "main.tex" 1715624418 2154 0c58cc7111e9e47445fd956e9a6bbb35 ""
-  "main.toc" 1715638362 7960 d1648c97b2873f2bb213ea677c245d53 "pdflatex"
+  "main.toc" 1715643186 7960 2f2106d974dab415db5bc2a69a957298 "pdflatex"
   "sections/abschlussbericht.tex" 1715624419 3439 44eaf4dcb08bdfd47e0c3965973ef042 ""
   "sections/anhang.tex" 1715624419 153 8e9540557c2d55862b4d6cea861769f7 ""
   "sections/einleitung.tex" 1715569310 1602 37061c651e22c81c63a40a34eb7e4419 ""
@@ -137,7 +137,7 @@
   "sections/konstruktion.tex" 1715624419 7250 cb5e6cac4e077b33ef9a7b834b7d44d3 ""
   "sections/literatur.tex" 1715638352 1083 144881c0f24fa27a55d2245b04d6ee51 ""
   "sections/projektuebersicht.tex" 1715624419 2725 9fab6c4366826921c8348492250dd0ad ""
-  "sections/website_planung.tex" 1715636702 20522 d74901f9a24adc3876377127a7ba8379 ""
+  "sections/website_planung.tex" 1715643177 20534 a9193ac50a78c3420e2f5843f8da5291 ""
   (generated)
   "main.aux"
   "main.lof"
