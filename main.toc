@@ -2,11 +2,11 @@
 \contentsline {section}{\numberline {1}Einleitung}{3}{section.1}%
 \contentsline {section}{\numberline {2}Projektübersicht}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Projektziele}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Projektkomponenten}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.2}Projektkomponenten}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Erwartete Ergebnisse}{4}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Konstruktion des Autos}{4}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Design und Planung}{4}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Anpassung des Chassis}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}Anpassung des Chassis}{5}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}3D-Druck und Komponentenintegration}{5}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Entwicklung des Greifarms}{5}{subsection.3.4}%
 \contentsline {subsubsection}{\numberline {3.4.1}Konstruktionsprozess}{5}{subsubsection.3.4.1}%
@@ -16,53 +16,70 @@
 \contentsline {subsection}{\numberline {3.6}Bilder der Konstruktion}{6}{subsection.3.6}%
 \contentsline {subsubsection}{\numberline {3.6.1}3D-Modellansicht Online}{10}{subsubsection.3.6.1}%
 \contentsline {paragraph}{\numberline {3.6.1.1}Funktionen des Autodesk Viewers}{10}{paragraph.3.6.1.1}%
-\contentsline {subsection}{\numberline {3.7}Schlussfolgerung}{11}{subsection.3.7}%
-\contentsline {section}{\numberline {4}Anwendung von Kanban}{12}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Kanban-System}{12}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Kanban-Board-Struktur}{12}{subsubsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.2}Farbkodierung}{12}{subsubsection.4.1.2}%
-\contentsline {subsubsection}{\numberline {4.1.3}Herausforderungen und Vorteile}{14}{subsubsection.4.1.3}%
-\contentsline {subsubsection}{\numberline {4.1.4}Gesamteindruck}{14}{subsubsection.4.1.4}%
-\contentsline {section}{\numberline {5}Planung und Projektierung der Website}{14}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Einleitung}{14}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Zielgruppe}{14}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1}Hobbybastler}{14}{subsubsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.2}Golfspieler}{14}{subsubsection.5.2.2}%
-\contentsline {subsubsection}{\numberline {5.2.3}Bildungseinrichtungen}{15}{subsubsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.3}Struktur der Website}{15}{subsection.5.3}%
-\contentsline {subsubsection}{\numberline {5.3.1}Navigationsleiste}{15}{subsubsection.5.3.1}%
-\contentsline {subsubsection}{\numberline {5.3.2}Interaktionselemente}{15}{subsubsection.5.3.2}%
-\contentsline {subsubsection}{\numberline {5.3.3}Usecase-Diagramm}{15}{subsubsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.4}Designraster und visuelle Gestaltung}{16}{subsection.5.4}%
-\contentsline {subsubsection}{\numberline {5.4.1}Minimalistische Struktur}{16}{subsubsection.5.4.1}%
-\contentsline {subsubsection}{\numberline {5.4.2}Farbschema}{16}{subsubsection.5.4.2}%
-\contentsline {subsubsection}{\numberline {5.4.3}Typografie und Lesbarkeit}{17}{subsubsection.5.4.3}%
-\contentsline {subsubsection}{\numberline {5.4.4}Interaktionsdesign}{17}{subsubsection.5.4.4}%
-\contentsline {subsubsection}{\numberline {5.4.5}Visuelle Hilfsmittel und Grafiken}{17}{subsubsection.5.4.5}%
-\contentsline {subsection}{\numberline {5.5}Wirkung und Zielsetzung}{17}{subsection.5.5}%
-\contentsline {subsubsection}{\numberline {5.5.1}Gesamteindruck und Emotionale Verbindung}{17}{subsubsection.5.5.1}%
-\contentsline {subsubsection}{\numberline {5.5.2}Visionäre Kommunikation}{18}{subsubsection.5.5.2}%
-\contentsline {subsubsection}{\numberline {5.5.3}Call-to-Action}{18}{subsubsection.5.5.3}%
-\contentsline {subsubsection}{\numberline {5.5.4}Visuelles Konzept}{18}{subsubsection.5.5.4}%
-\contentsline {subsection}{\numberline {5.6}Ergonomie und Benutzerfreundlichkeit}{19}{subsection.5.6}%
-\contentsline {subsubsection}{\numberline {5.6.1}Interaktionsdesign und Navigation}{19}{subsubsection.5.6.1}%
-\contentsline {subsubsection}{\numberline {5.6.2}Feedback-Mechanismen}{19}{subsubsection.5.6.2}%
-\contentsline {subsubsection}{\numberline {5.6.3}Unterstützung für Sehbehinderte}{19}{subsubsection.5.6.3}%
-\contentsline {subsubsection}{\numberline {5.6.4}Optimierung der Ladezeiten}{19}{subsubsection.5.6.4}%
-\contentsline {subsubsection}{\numberline {5.6.5}Zukünftige Verbesserungen}{19}{subsubsection.5.6.5}%
-\contentsline {subsection}{\numberline {5.7}Grundlegende Überlegungen bei der Projektierung}{20}{subsection.5.7}%
-\contentsline {subsubsection}{\numberline {5.7.1}Werbung und Sichtbarkeit}{20}{subsubsection.5.7.1}%
-\contentsline {subsubsection}{\numberline {5.7.2}Hosting und Zugänglichkeit}{20}{subsubsection.5.7.2}%
-\contentsline {subsubsection}{\numberline {5.7.3}Qualitätssicherung und Versionierung}{20}{subsubsection.5.7.3}%
-\contentsline {subsubsection}{\numberline {5.7.4}Aktualisierung der Inhalte}{20}{subsubsection.5.7.4}%
-\contentsline {subsubsection}{\numberline {5.7.5}Suchmaschinenoptimierung (SEO)}{20}{subsubsection.5.7.5}%
-\contentsline {paragraph}{\numberline {5.7.5.1}Meta-Tags und ihre Bedeutung}{20}{paragraph.5.7.5.1}%
-\contentsline {paragraph}{\numberline {5.7.5.2}Nutzung von Google Analytics}{21}{paragraph.5.7.5.2}%
-\contentsline {subsection}{\numberline {5.8}Abschluss und Ausblick}{21}{subsection.5.8}%
-\contentsline {subsubsection}{\numberline {5.8.1}Zusammenfassung der Ziele}{21}{subsubsection.5.8.1}%
-\contentsline {subsubsection}{\numberline {5.8.2}Herausforderungen und Lösungen}{22}{subsubsection.5.8.2}%
-\contentsline {subsubsection}{\numberline {5.8.3}Feedback und Evaluation}{22}{subsubsection.5.8.3}%
-\contentsline {subsubsection}{\numberline {5.8.4}Langfristige Vision und zukünftige Entwicklungen}{22}{subsubsection.5.8.4}%
-\contentsline {subsection}{\numberline {5.9}Aufruf zum Handeln}{22}{subsection.5.9}%
-\contentsline {subsection}{\numberline {5.10}Anhang}{22}{subsection.5.10}%
-\contentsline {subsection}{\numberline {5.11}Literaturverzeichnis}{22}{subsection.5.11}%
+\contentsline {subsection}{\numberline {3.7}Schlussfolgerung}{10}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Anwendung von Kanban}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Kanban-System}{11}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Kanban-Board-Struktur}{11}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Farbkodierung}{11}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Herausforderungen und Vorteile}{13}{subsubsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}Gesamteindruck}{13}{subsubsection.4.1.4}%
+\contentsline {section}{\numberline {5}Planung und Projektierung der Website}{13}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Einleitung}{13}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Zielgruppe}{13}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Hobbybastler}{13}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Golfspieler}{13}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}Bildungseinrichtungen}{14}{subsubsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.3}Struktur der Website}{14}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Navigationsleiste}{14}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Interaktionselemente}{14}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}Usecase-Diagramm}{14}{subsubsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.4}Designraster und visuelle Gestaltung}{15}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Minimalistische Struktur}{15}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Farbschema}{15}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}Typografie und Lesbarkeit}{16}{subsubsection.5.4.3}%
+\contentsline {subsubsection}{\numberline {5.4.4}Interaktionsdesign}{16}{subsubsection.5.4.4}%
+\contentsline {subsubsection}{\numberline {5.4.5}Visuelle Hilfsmittel und Grafiken}{16}{subsubsection.5.4.5}%
+\contentsline {subsection}{\numberline {5.5}Wirkung und Zielsetzung}{16}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1}Gesamteindruck und Emotionale Verbindung}{16}{subsubsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {5.5.2}Visionäre Kommunikation}{17}{subsubsection.5.5.2}%
+\contentsline {subsubsection}{\numberline {5.5.3}Call-to-Action}{17}{subsubsection.5.5.3}%
+\contentsline {subsubsection}{\numberline {5.5.4}Visuelles Konzept}{17}{subsubsection.5.5.4}%
+\contentsline {subsection}{\numberline {5.6}Ergonomie und Benutzerfreundlichkeit}{18}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Interaktionsdesign und Navigation}{18}{subsubsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {5.6.2}Feedback-Mechanismen}{18}{subsubsection.5.6.2}%
+\contentsline {subsubsection}{\numberline {5.6.3}Unterstützung für Sehbehinderte}{18}{subsubsection.5.6.3}%
+\contentsline {subsubsection}{\numberline {5.6.4}Optimierung der Ladezeiten}{18}{subsubsection.5.6.4}%
+\contentsline {subsubsection}{\numberline {5.6.5}Zukünftige Verbesserungen}{18}{subsubsection.5.6.5}%
+\contentsline {subsection}{\numberline {5.7}Grundlegende Überlegungen bei der Projektierung}{19}{subsection.5.7}%
+\contentsline {subsubsection}{\numberline {5.7.1}Werbung und Sichtbarkeit}{19}{subsubsection.5.7.1}%
+\contentsline {subsubsection}{\numberline {5.7.2}Hosting und Zugänglichkeit}{19}{subsubsection.5.7.2}%
+\contentsline {subsubsection}{\numberline {5.7.3}Qualitätssicherung und Versionierung}{19}{subsubsection.5.7.3}%
+\contentsline {subsubsection}{\numberline {5.7.4}Aktualisierung der Inhalte}{19}{subsubsection.5.7.4}%
+\contentsline {subsubsection}{\numberline {5.7.5}Suchmaschinenoptimierung (SEO)}{19}{subsubsection.5.7.5}%
+\contentsline {paragraph}{\numberline {5.7.5.1}Meta-Tags und ihre Bedeutung}{19}{paragraph.5.7.5.1}%
+\contentsline {paragraph}{\numberline {5.7.5.2}Nutzung von Google Analytics}{20}{paragraph.5.7.5.2}%
+\contentsline {paragraph}{\numberline {5.7.5.3}Weitere Analyseergebnisse}{21}{paragraph.5.7.5.3}%
+\contentsline {subsection}{\numberline {5.8}Abschluss und Ausblick}{24}{subsection.5.8}%
+\contentsline {subsubsection}{\numberline {5.8.1}Zusammenfassung der Ziele}{24}{subsubsection.5.8.1}%
+\contentsline {subsubsection}{\numberline {5.8.2}Herausforderungen und Lösungen}{24}{subsubsection.5.8.2}%
+\contentsline {subsubsection}{\numberline {5.8.3}Feedback und Evaluation}{24}{subsubsection.5.8.3}%
+\contentsline {subsubsection}{\numberline {5.8.4}Langfristige Vision und zukünftige Entwicklungen}{24}{subsubsection.5.8.4}%
+\contentsline {subsection}{\numberline {5.9}Aufruf zum Handeln}{24}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}Anhang}{24}{subsection.5.10}%
+\contentsline {subsection}{\numberline {5.11}Literaturverzeichnis}{24}{subsection.5.11}%
+\contentsline {section}{\numberline {6}Hosting der Website}{25}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Server und Hosting-Details}{25}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Technische Spezifikationen}{25}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Skalierbarkeit und Zugriffsmanagement}{25}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Sicherheit und Monitoring}{25}{subsubsection.6.1.3}%
+\contentsline {subsubsection}{\numberline {6.1.4}SEO und Google Analytics}{25}{subsubsection.6.1.4}%
+\contentsline {section}{\numberline {7}Abschlussbericht}{26}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Zusammenfassung der Projektziele}{26}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Erfolge und Herausforderungen}{26}{subsection.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.1}Technische Herausforderungen und Lösungen}{26}{subsubsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2}Erfolge}{27}{subsubsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.3}Was wir gelernt haben}{27}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Ausblick und zukünftige Schritte}{27}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Schlusswort}{27}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Anhang}{27}{section.8}%
+\contentsline {section}{\numberline {9}Literaturverzeichnis}{27}{section.9}%
