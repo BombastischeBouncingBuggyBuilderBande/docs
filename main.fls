@@ -626,11 +626,12 @@ INPUT ./sections/projektuebersicht.tex
 INPUT sections/projektuebersicht.tex
 INPUT ./sections/projektuebersicht.tex
 INPUT sections/projektuebersicht.tex
-INPUT ./sections/konstruktion.tex
-INPUT sections/konstruktion.tex
-INPUT ./sections/konstruktion.tex
-INPUT sections/konstruktion.tex
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
+INPUT ./sections/konstruktion.tex
+INPUT sections/konstruktion.tex
+INPUT ./sections/konstruktion.tex
+INPUT sections/konstruktion.tex
 INPUT ./Resources/claw_gripper.jpg
 INPUT ./Resources/claw_gripper.jpg
 INPUT Resources/claw_gripper.jpg
@@ -671,7 +672,6 @@ INPUT c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm
-INPUT c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT ./sections/kanban.tex
 INPUT sections/kanban.tex
 INPUT ./sections/kanban.tex
