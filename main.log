@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.13)  14 MAY 2024 01:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.13)  14 MAY 2024 02:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -350,7 +350,7 @@ Package hyperref Info: Link coloring OFF on input line 51.
 \openout3 = `main.out'.
 
 \c@lstlisting=\count291
-<Resources/company_logo.jpg, id=325, 770.88pt x 770.88pt>
+<Resources/company_logo.jpg, id=317, 770.88pt x 770.88pt>
 File: Resources/company_logo.jpg Graphic file (type jpg)
 <use Resources/company_logo.jpg>
 Package pdftex.def Info: Resources/company_logo.jpg  used on input line 56.
@@ -374,7 +374,7 @@ l.46 ...isuelles Konzept}{18}{subsubsection.5.5.4}
 \openout4 = `main.toc'.
 
  [2] (./sections/einleitung.tex) (./sections/projektuebersicht.tex [3]) (./sections/konstruktion.tex [4]
-<Resources/claw_gripper.jpg, id=435, 434.37282pt x 325.96782pt>
+<Resources/claw_gripper.jpg, id=425, 434.37282pt x 325.96782pt>
 File: Resources/claw_gripper.jpg Graphic file (type jpg)
 <use Resources/claw_gripper.jpg>
 Package pdftex.def Info: Resources/claw_gripper.jpg  used on input line 23.
@@ -385,12 +385,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has
                                                   \__shipout_drop_firstpage_...
 l.36 \newpage
               <./Resources/claw_gripper.jpg>]
-<Resources/oben_normal.png, id=446, 1059.20718pt x 546.54187pt>
+<Resources/oben_normal.png, id=436, 1059.20718pt x 546.54187pt>
 File: Resources/oben_normal.png Graphic file (type png)
 <use Resources/oben_normal.png>
 Package pdftex.def Info: Resources/oben_normal.png  used on input line 40.
 (pdftex.def)             Requested size: 430.31812pt x 222.04042pt.
-<Resources/seitlich_chassi_transparent.png, id=448, 1172.88188pt x 638.385pt>
+<Resources/seitlich_chassi_transparent.png, id=438, 1172.88188pt x 638.385pt>
 File: Resources/seitlich_chassi_transparent.png Graphic file (type png)
 <use Resources/seitlich_chassi_transparent.png>
 Package pdftex.def Info: Resources/seitlich_chassi_transparent.png  used on input line 46.
@@ -406,12 +406,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has
                                                   \__shipout_drop_firstpage_...
 l.50 \newpage
               <./Resources/oben_normal.png> <./Resources/seitlich_chassi_transparent.png>]
-<Resources/seitlich_transparent.png, id=457, 1288.815pt x 434.37282pt>
+<Resources/seitlich_transparent.png, id=447, 1288.815pt x 434.37282pt>
 File: Resources/seitlich_transparent.png Graphic file (type png)
 <use Resources/seitlich_transparent.png>
 Package pdftex.def Info: Resources/seitlich_transparent.png  used on input line 54.
 (pdftex.def)             Requested size: 448.4407pt x 151.13799pt.
-<Resources/unten_ohne_trennplatte.png, id=458, 810.77907pt x 449.42906pt>
+<Resources/unten_ohne_trennplatte.png, id=448, 810.77907pt x 449.42906pt>
 File: Resources/unten_ohne_trennplatte.png Graphic file (type png)
 <use Resources/unten_ohne_trennplatte.png>
 Package pdftex.def Info: Resources/unten_ohne_trennplatte.png  used on input line 60.
@@ -427,12 +427,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has
                                                   \__shipout_drop_firstpage_...
 l.64 \newpage
               <./Resources/seitlich_transparent.png> <./Resources/unten_ohne_trennplatte.png>]
-<Resources/unten_transparent.png, id=467, 1017.04968pt x 480.29437pt>
+<Resources/unten_transparent.png, id=457, 1017.04968pt x 480.29437pt>
 File: Resources/unten_transparent.png Graphic file (type png)
 <use Resources/unten_transparent.png>
 Package pdftex.def Info: Resources/unten_transparent.png  used on input line 68.
 (pdftex.def)             Requested size: 430.31812pt x 203.2173pt.
-<Resources/unten_trennplatte_transparent.png, id=468, 800.23969pt x 426.84468pt>
+<Resources/unten_trennplatte_transparent.png, id=458, 800.23969pt x 426.84468pt>
 File: Resources/unten_trennplatte_transparent.png Graphic file (type png)
 <use Resources/unten_trennplatte_transparent.png>
 Package pdftex.def Info: Resources/unten_trennplatte_transparent.png  used on input line 74.
@@ -452,7 +452,7 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 84
  (c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [10]) (./sections/kanban.tex
-<Resources/kanban_board.png, id=485, 576.65437pt x 1023.07219pt>
+<Resources/kanban_board.png, id=474, 576.65437pt x 1023.07219pt>
 File: Resources/kanban_board.png Graphic file (type png)
 <use Resources/kanban_board.png>
 Package pdftex.def Info: Resources/kanban_board.png  used on input line 23.
@@ -466,7 +466,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has
                                                   \__shipout_drop_firstpage_...
 l.26 
       <./Resources/kanban_board.png>]) (./sections/website_planung.tex [13] [14]
-<Resources/diagram.png, id=506, 1112.155pt x 2409.0pt>
+<Resources/diagram.png, id=496, 1112.155pt x 2409.0pt>
 File: Resources/diagram.png Graphic file (type png)
 <use Resources/diagram.png>
 Package pdftex.def Info: Resources/diagram.png  used on input line 39.
@@ -477,12 +477,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has
                                                   \__shipout_drop_firstpage_...
 l.43 \newpage
               <./Resources/diagram.png>]
-<Resources/color_sample.png, id=513, 43.01785pt x 43.01785pt>
+<Resources/color_sample.png, id=503, 43.01785pt x 43.01785pt>
 File: Resources/color_sample.png Graphic file (type png)
 <use Resources/color_sample.png>
 Package pdftex.def Info: Resources/color_sample.png  used on input line 55.
 (pdftex.def)             Requested size: 28.45274pt x 28.45224pt.
-<Resources/color_sample_black.png, id=514, 43.01785pt x 43.01785pt>
+<Resources/color_sample_black.png, id=504, 43.01785pt x 43.01785pt>
 File: Resources/color_sample_black.png Graphic file (type png)
 <use Resources/color_sample_black.png>
 Package pdftex.def Info: Resources/color_sample_black.png  used on input line 55.
@@ -493,7 +493,7 @@ Overfull \hbox (22.82556pt too wide) in paragraph at lines 60--61
  []
 
 [16 <./Resources/color_sample.png> <./Resources/color_sample_black.png>]
-<Resources/menu_screenshot.png, id=519, 1176.96857pt x 748.94089pt>
+<Resources/menu_screenshot.png, id=509, 1176.96857pt x 748.94089pt>
 File: Resources/menu_screenshot.png Graphic file (type png)
 <use Resources/menu_screenshot.png>
 Package pdftex.def Info: Resources/menu_screenshot.png  used on input line 72.
@@ -504,25 +504,25 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) ha
                                                   \__shipout_drop_firstpage_...
 l.86 
       <./Resources/menu_screenshot.png>] [18] [19]
-<Resources/SEO_snapshot.png, id=534, 1694.58093pt x 850.67813pt>
+<Resources/SEO_snapshot.png, id=525, 1694.58093pt x 850.67813pt>
 File: Resources/SEO_snapshot.png Graphic file (type png)
 <use Resources/SEO_snapshot.png>
-Package pdftex.def Info: Resources/SEO_snapshot.png  used on input line 163.
+Package pdftex.def Info: Resources/SEO_snapshot.png  used on input line 165.
 (pdftex.def)             Requested size: 452.9679pt x 227.38866pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [20]
-<Resources/SEO_echtzeit.png, id=552, 1671.24374pt x 725.71124pt>
+<Resources/SEO_echtzeit.png, id=543, 1671.24374pt x 725.71124pt>
 File: Resources/SEO_echtzeit.png Graphic file (type png)
 <use Resources/SEO_echtzeit.png>
-Package pdftex.def Info: Resources/SEO_echtzeit.png  used on input line 174.
+Package pdftex.def Info: Resources/SEO_echtzeit.png  used on input line 176.
 (pdftex.def)             Requested size: 452.9679pt x 196.68657pt.
-<Resources/SEO_engagement.png, id=553, 1631.34468pt x 727.96968pt>
+<Resources/SEO_engagement.png, id=544, 1631.34468pt x 727.96968pt>
 File: Resources/SEO_engagement.png Graphic file (type png)
 <use Resources/SEO_engagement.png>
-Package pdftex.def Info: Resources/SEO_engagement.png  used on input line 180.
+Package pdftex.def Info: Resources/SEO_engagement.png  used on input line 182.
 (pdftex.def)             Requested size: 452.9679pt x 202.13062pt.
 
 
@@ -532,22 +532,22 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.184 \newpage
+l.186 \newpage
               
 pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.184 \newpage
+l.186 \newpage
                <./Resources/SEO_snapshot.png> <./Resources/SEO_echtzeit.png>]
-<Resources/SEO_ergebnisse.png, id=563, 1468.73718pt x 734.745pt>
+<Resources/SEO_ergebnisse.png, id=554, 1468.73718pt x 734.745pt>
 File: Resources/SEO_ergebnisse.png Graphic file (type png)
 <use Resources/SEO_ergebnisse.png>
-Package pdftex.def Info: Resources/SEO_ergebnisse.png  used on input line 188.
+Package pdftex.def Info: Resources/SEO_ergebnisse.png  used on input line 190.
 (pdftex.def)             Requested size: 452.9679pt x 226.5914pt.
-<Resources/SEO_nutzerattribute.png, id=564, 1636.61438pt x 736.25063pt>
+<Resources/SEO_nutzerattribute.png, id=555, 1636.61438pt x 736.25063pt>
 File: Resources/SEO_nutzerattribute.png Graphic file (type png)
 <use Resources/SEO_nutzerattribute.png>
-Package pdftex.def Info: Resources/SEO_nutzerattribute.png  used on input line 194.
+Package pdftex.def Info: Resources/SEO_nutzerattribute.png  used on input line 196.
 (pdftex.def)             Requested size: 452.9679pt x 203.7671pt.
 
 
@@ -557,22 +557,22 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.198 \newpage
+l.200 \newpage
               
 pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.198 \newpage
+l.200 \newpage
                <./Resources/SEO_engagement.png> <./Resources/SEO_ergebnisse.png>]
-<Resources/SEO_nutzergewinnung.png, id=573, 1464.97313pt x 599.99156pt>
+<Resources/SEO_nutzergewinnung.png, id=564, 1464.97313pt x 599.99156pt>
 File: Resources/SEO_nutzergewinnung.png Graphic file (type png)
 <use Resources/SEO_nutzergewinnung.png>
-Package pdftex.def Info: Resources/SEO_nutzergewinnung.png  used on input line 202.
+Package pdftex.def Info: Resources/SEO_nutzergewinnung.png  used on input line 204.
 (pdftex.def)             Requested size: 452.9679pt x 185.51024pt.
-<Resources/SEO_uebersicht.png, id=574, 1641.88406pt x 676.02562pt>
+<Resources/SEO_uebersicht.png, id=565, 1641.88406pt x 676.02562pt>
 File: Resources/SEO_uebersicht.png Graphic file (type png)
 <use Resources/SEO_uebersicht.png>
-Package pdftex.def Info: Resources/SEO_uebersicht.png  used on input line 208.
+Package pdftex.def Info: Resources/SEO_uebersicht.png  used on input line 210.
 (pdftex.def)             Requested size: 452.9679pt x 186.50075pt.
 
 
@@ -582,14 +582,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.214 \newpage
+l.216 \newpage
               
 pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.214 \newpage
+l.216 \newpage
                <./Resources/SEO_nutzerattribute.png> <./Resources/SEO_nutzergewinnung.png>]
-Overfull \hbox (2.65277pt too wide) in paragraph at lines 225--226
+Overfull \hbox (2.65277pt too wide) in paragraph at lines 227--228
 []\T1/cmr/bx/n/12 Edit But-ton: \T1/cmr/m/n/12 Feh-ler durch die Ver-wen-dung von An-füh-rungs-zei-chen in Ta-ge-buchein-
  []
 
@@ -597,9 +597,9 @@ Overfull \hbox (2.65277pt too wide) in paragraph at lines 225--226
 pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.234 
+l.236 
        <./Resources/SEO_uebersicht.png>]) (./sections/hosting.tex [25]
-<Resources/hosting.png, id=595, 936.06857pt x 514.92375pt>
+<Resources/hosting.png, id=586, 936.06857pt x 514.92375pt>
 File: Resources/hosting.png Graphic file (type png)
 <use Resources/hosting.png>
 Package pdftex.def Info: Resources/hosting.png  used on input line 18.
@@ -608,28 +608,38 @@ Package pdftex.def Info: Resources/hosting.png  used on input line 18.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.8     \item \textbf
-                     {Platzierung der Ultraschallsensoren:} Die optimale Pla... <./Resources/hosting.png>] [27]) (./sections/anhang.tex) (./sections/literatur.tex) [28] (./main.lof)
+l.9     \item \textbf
+                     {Verwendung von Autodesk Inventor:} Trotz der Komplexit... <./Resources/hosting.png>]
+Overfull \hbox (4.99936pt too wide) in paragraph at lines 25--26
+\T1/cmr/m/n/12 schem Wis-sen aus frü-he-ren Kur-sen in Te-le-kom-mu-ni-ka-ti-on und Hardware-Engineering
+ []
+
+[27]) (./sections/anhang.tex) (./sections/literatur.tex
+Underfull \hbox (badness 2837) in paragraph at lines 33--36
+[]\T1/cmr/m/n/12 Elektronik-Kompendium. \T1/cmr/m/it/12 Elektronik-Kompendium: Online-Informationsquelle für
+ []
+
+) [28] (./main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
  [29] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9B293C17BD0E4684F2A7B68D8390BE62;14422.
+(rerunfilecheck)             Checksum: 247525269E21D70656F607EB9C4C9D8F;14174.
  ) 
 Here is how much of TeX's memory you used:
- 13102 strings out of 475071
- 204608 string characters out of 5782907
- 795796 words of memory out of 5000000
+ 13101 strings out of 475071
+ 204606 string characters out of 5782907
+ 796796 words of memory out of 5000000
  34139 multiletter control sequences out of 15000+600000
  480590 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,12n,77p,962b,1190s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (30 pages, 2272411 bytes).
+Output written on main.pdf (30 pages, 2272651 bytes).
 PDF statistics:
- 726 PDF objects out of 1000 (max. 8388607)
- 630 compressed objects within 7 object streams
- 148 named destinations out of 1000 (max. 500000)
- 746 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 722 PDF objects out of 1000 (max. 8388607)
+ 626 compressed objects within 7 object streams
+ 147 named destinations out of 1000 (max. 500000)
+ 730 words of extra memory for PDF output out of 10000 (max. 10000000)
 
